@@ -1,7 +1,7 @@
 const express = require('express');
 const router = express.Router();
 const Member = require('../models/memeber');
-
+const foo = 0;
 
 // get a list of members from the database
 router.get('/members', function (req, res,next) {
