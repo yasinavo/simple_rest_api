@@ -19,4 +19,4 @@ Sample POST request
 
 GET Request - get members by coordinate data
 
-http://localhost:4000/api/emp/?lng=-80&lat=25
+http://localhost:4000/api/members/?lng=-80&lat=25
